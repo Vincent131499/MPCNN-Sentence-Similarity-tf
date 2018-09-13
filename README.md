@@ -14,7 +14,7 @@ MPCNN-Sentence-Similarity-tf：基于MPCNN网络对STS数据集进行句子相�
 
 数据集下载与使用：
 ================
-本项目采用的是STS数据集，可到[这里]()下载，下载完毕后将其解压到项目的根目录即可正常训练使用。<br>
+本项目采用的是STS数据集，可到[这里](https://github.com/Fengfeng1024/MPCNN/tree/master/sts)下载，下载完毕后将其解压到项目的根目录即可正常训练使用。<br>
 
 项目架构：
 =========
